@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a style="text-decoration: none !important;" href="https://t.me/ehatamii">
+  <a href="https://t.me/ehatamii">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 
