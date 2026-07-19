@@ -1,13 +1,18 @@
 <h1 align="center">Hi there, I'm Erfan Hatami</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS;Building+Modern+Responsive+Interfaces;Creating+Clean+Web+Experiences" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://t.me/ehatamii">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
+
   <a href="mailto:hatamiidev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
